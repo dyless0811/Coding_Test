@@ -1,7 +1,5 @@
 package programmers.lv1;
 
-import java.util.HashMap;
-
 public class N42889 {
 	public static void main(String[] args) {
 		int N = 5;
