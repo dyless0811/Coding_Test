@@ -8,10 +8,10 @@ public class N82612 {
 	}
 	
     public static long solution(int price, int money, int count) {
+        long answer = money; 
         for (int i = 1; i <= count; i++) {
-        	money -= price*i;
+        	answer -= price*i;
         }
-        
-        return money >= 0 ? 0 : money*-1;
+        return answer >= 0 ? 0 : answer*-1;
     }
 }
