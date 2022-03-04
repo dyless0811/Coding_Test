@@ -1,3 +1,4 @@
+package programmers.lv1;
 
 public class N12903 {
 	public static void main(String[] args) {
