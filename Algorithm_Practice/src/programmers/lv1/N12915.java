@@ -1,7 +1,6 @@
 package programmers.lv1;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class N12915 {
 	public static void main(String[] args) {
